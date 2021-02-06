@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# README.md
+Web: http://kevinturkington.com/
+Linkedin: https://www.linkedin.com/in/kevin-turkington/
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zainkai.zainkai&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜)
