@@ -1,22 +1,8 @@
-### Hi there 👋
+## Software Engineer (Full-Stack / ETL)
+### Compass - Insights and Analytics
 
-<!--
-**zainkai/zainkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[KevinTurkington.com](http://kevinturkington.com/) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# README.md
-Web: http://kevinturkington.com/
-Linkedin: https://www.linkedin.com/in/kevin-turkington/
+[in/kevin-turkington](https://www.linkedin.com/in/kevin-turkington/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zainkai.zainkai&title=𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜)
