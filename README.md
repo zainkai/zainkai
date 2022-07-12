@@ -1,5 +1,4 @@
-## Software Engineer (Full-Stack / ETL)
-### Compass - Insights and Analytics
+## Software Engineer (Full-Stack)
 
 [KevinTurkington.com](http://kevinturkington.com/) 
 
